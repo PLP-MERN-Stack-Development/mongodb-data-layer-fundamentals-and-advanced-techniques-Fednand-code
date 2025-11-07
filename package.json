@@ -1,0 +1,17 @@
+{
+  "name": "plp-bookstore-mongodb",
+  "version": "1.0.0",
+  "description": "MongoDB assignment for PLP Bookstore",
+  "main": "insert_books.js",
+  "scripts": {
+    "setup": "node insert_books.js",
+    "queries": "node queries.js",
+    "start": "npm run setup && npm run queries"
+  },
+  "dependencies": {
+    "mongodb": "^6.20.0"
+  },
+  "keywords": ["mongodb", "plp", "bookstore", "database"],
+  "author": "Fednand",
+  "license": "MIT"
+}

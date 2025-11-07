@@ -57,3 +57,19 @@ Complete all the exercises in this assignment and push your code to GitHub using
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+
+# 🗄️ PLP Bookstore - MongoDB Assignment
+
+## 📋 Project Description
+This project demonstrates MongoDB fundamentals including CRUD operations, advanced queries, aggregation pipelines, and indexing for a bookstore database.
+
+## 🛠️ Prerequisites
+- Node.js installed
+- MongoDB installed locally or MongoDB Atlas account
+- MongoDB running on `mongodb://localhost:27017`
+
+## 📥 Installation
+
+1. **Install dependencies**
+   ```bash
+   npm install
